@@ -1,5 +1,6 @@
 # CodeReview
 A code review for Appointment Now and Investment Calculator.
+Link to the video: https://www.youtube.com/watch?v=OGCRxBaqYaA
 
 Appointment Now
 
